@@ -1,5 +1,5 @@
 STAIR-CASE-WIRING
-Name: Chezian A
+Name: Chezian
 Reg no:212223030006
 AIM To control the status of the given lamp by using two – way switches.
 
